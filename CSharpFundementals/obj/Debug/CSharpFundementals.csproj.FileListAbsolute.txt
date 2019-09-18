@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\bin\Debug\CSharpFundementals.exe.config
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\bin\Debug\CSharpFundementals.exe
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\bin\Debug\CSharpFundementals.pdb
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\obj\Debug\CSharpFundementals.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\obj\Debug\CSharpFundementals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\obj\Debug\CSharpFundementals.exe
+C:\ElevenFiftyProjects\Gold\Fundemental\CSharpFundementals\CSharpFundementals\obj\Debug\CSharpFundementals.pdb
